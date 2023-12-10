@@ -1,7 +1,5 @@
 package com.paulaacs15.tienda
 
-package com.example.a1031646772
-
 class Nequi {
 }
 //Login
@@ -10,6 +8,7 @@ fun Login():Int{
     var returno:Int=0
     var contador: Int = 3
     var op=1
+
     while (op<=3){
         while (contador >= 0) {
             println("Ingrese el numero de celular")
